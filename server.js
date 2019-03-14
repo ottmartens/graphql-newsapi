@@ -1,24 +1,30 @@
-const express = require('express');
-const expressGraphQL = require('express-graphql');
+const express = require('express')
+const expressGraphQL = require('express-graphql')
+const mongoClient = require('mongodb').MongoClient
 
-const { flushAndFetch, clearData, fetchArticles } = require('./newsService');
-
-const schema = require('./schema');
+const { dbUrl } = require('./config')
 
 const app = express();
 
-flushAndFetch();
 
-setInterval(
-  () => flushAndFetch(),
-  1000 * 60 * 15
-)
+mongoClient.connect(dbUrl, { useNewUrlParser: true }, (err, database) => {
 
-app.use('/graphql', expressGraphQL({
-  schema: schema,
-  graphiql: true,
-}))
+  console.log("Connected to database")
 
-app.listen(4000, () => {
-  console.log("Listening on 4000");
+  const db = database.db('gql')
+
+  const schema = require('./schema')(db)
+
+  app.use('/graphql', expressGraphQL({
+    schema: schema,
+    graphiql: true,
+  }))
+
+  require('./newsService')(db)
+  
+  app.listen(4000, () => {
+    console.log("Listening on 4000")
+  })
+
 })
+

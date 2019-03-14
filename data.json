@@ -1,6 +1,789 @@
 {
-  "all":{},
-  "business":{},
-  "sports":{},
-  "technology": {}
+  "all": {},
+  "business": [
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Fred Imbert",
+      "title": "Altria shares hit after National Cancer Institute director named acting head of the FDA - CNBC",
+      "description": "Altria investors don't seem to like the prospects for the cigarette maker under the new acting FDA commissioner.",
+      "url": "https://www.cnbc.com/2019/03/12/altria-shares-hit-after-national-cancer-institute-director-named-acting-head-of-the-fda.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/09/03/102969267-GettyImages-452023458.1910x1000.jpg",
+      "publishedAt": "2019-03-12T16:44:37Z",
+      "content": "Altria investors don't seem to like the prospects for the cigarette maker under the new acting FDA commissioner. div &gt; div.group &gt; p:first-child\"&gt; The company's stock fell to their lows of the day, trading around 1.5 percent lower, after National Can… [+805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "Stitch Fix Soars Midday as Earnings Suit Investors - Investing.com",
+      "description": "Stitch Fix Soars Midday as Earnings Suit Investors",
+      "url": "https://www.investing.com/news/stock-market-news/stitch-fix-soars-midday-as-earnings-suit-investors-1805062",
+      "urlToImage": "https://i-invdn-com.akamaized.net/news/LYNXMPEA601YK_L.jpg",
+      "publishedAt": "2019-03-12T16:33:06Z",
+      "content": "Investing.com - Online custom clothing company Stitch Fix rocketed higher midday thanks to solid quarterly results and guidance. Stitch Fix (NASDAQ: SFIX ) shares soared 26%, while the S&amp;P 500 consumer discretionary index rose 1.5%. The company reported f… [+612 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Fred Imbert",
+      "title": "Stocks making the biggest moves midday: Boeing, Dick's, Stitch Fix & more - CNBC",
+      "description": "These are the stocks posting the largest moves midday Tuesday.",
+      "url": "https://www.cnbc.com/2019/03/12/stocks-making-the-biggest-moves-midday-boeing-dicks-stitch-fix--more.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/10/18/105516135-1539894270325gettyimages-1052189700.1910x1000.jpeg",
+      "publishedAt": "2019-03-12T16:27:40Z",
+      "content": "Check out the companies making headlines midday Tuesday: div &gt; div.group &gt; p:first-child\"&gt; Boeing Boeing shares fell 5.4 percent as countries around the world are grounding 737 MAX-8 jets following the model's second deadly crash in five months. The … [+1528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Rhett Jones",
+      "title": "Elon Musk to SEC: You Can't Make Me Never Tweet - Gizmodo",
+      "description": "On Monday, Tesla CEO Elon Musk filed his response to an SEC request to that a federal court hold him in contempt for violating a settlement agreement. In the filing, Musk argues that restrictions on his tweeting amount to an “unconstitutional power grab” by t…",
+      "url": "https://gizmodo.com/elon-musk-to-sec-you-cant-make-me-never-tweet-1833227990",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--NoIdrVTG--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ke5qj1uujkwcff4dgtha.jpg",
+      "publishedAt": "2019-03-12T16:20:00Z",
+      "content": "On Monday, Tesla CEO Elon Musk filed his response to an SEC request to that a federal court hold him in contempt for violating a settlement agreement. In the filing, Musk argues that restrictions on his tweeting amount to an unconstitutional power grab by the… [+4534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnep.com"
+      },
+      "author": "http://www.facebook.com/Newswatch16",
+      "title": "Terrifying Video Shows Child Trapped Inside Igloo Cooler, Prompts Recall - WNEP Scranton/Wilkes-Barre",
+      "description": "POMPANO BEACH, Fl. -- Igloo Products Corp. is voluntarily recalling coolers after video of a Florida boy getting trapped inside one goes viral.\r\n\nRobert Wanes of Pompano Beach, Florida posted video from a security camera to Facebook showing his son Nicholas, …",
+      "url": "https://wnep.com/2019/03/12/terrifying-video-shows-child-trapped-inside-igloo-cooler-prompts-recall/",
+      "urlToImage": "https://localtvwnep.files.wordpress.com/2019/03/boy-trapped-in-cooler-e1552407032559.jpg?quality=85&strip=all",
+      "publishedAt": "2019-03-12T16:11:00Z",
+      "content": "POMPANO BEACH, Fl. — Igloo Products Corp. is voluntarily recalling coolers after video of a Florida boy getting trapped inside one goes viral. Robert Wanes of Pompano Beach, Florida posted video from a security camera to Facebook showing his son Nicholas, 5, … [+1100 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Uber settles driver classification lawsuit for $20 million - The Verge",
+      "description": "The fight over the classification of ride-sharing drivers as independent contractors appears to be over after Uber announced that it settled a pair of long-gestating lawsuits for $20 million. The resolution is a boon to Uber, which is preparing its initial pu…",
+      "url": "https://www.theverge.com/2019/3/12/18261755/uber-driver-classification-lawsuit-settlement-20-million",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QLNQrcZS20Q8qHZNKuBCHqPJlXo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13175211/acastro_180927_1777_uber_0001.jpg",
+      "publishedAt": "2019-03-12T15:59:48Z",
+      "content": "The fight over the classification of ride-sharing drivers as independent contractors appears to be over after Uber announced that it settled a pair of long-gestating lawsuits for $20 million. The resolution is a boon to Uber, which is preparing its initial pu… [+2896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Komonews.com"
+      },
+      "author": "KOMO Staff",
+      "title": "Seattle has among least aggressive drivers in U.S. among large cities, study finds - KOMO News",
+      "description": "SEATTLE -- The Seattle area may not have the best drivers when it comes to avoiding crashes, but we are among the least aggressive in the nation, a new study finds. Of the nation's top 30 most populous cities, Seattle ranks 29th on the aggressive driving list…",
+      "url": "http://komonews.com/news/local/seattle-has-among-least-aggressive-drivers-in-us-among-large-cities-study-finds",
+      "urlToImage": "http://static-17.sinclairstoryline.com/resources/media/58e0f4f7-0d72-434d-bc1f-cddc1e086fd6-large16x9_freewayTraffic.jpg?1552405785297",
+      "publishedAt": "2019-03-12T15:50:00Z",
+      "content": "SEATTLE -- The Seattle area may not have the best drivers when it comes to avoiding crashes, but we are among the least aggressive in the nation, a new study finds. Of the nation's top 30 most populous cities, Seattle ranks 29th on the aggressive driving list… [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetakeout.com"
+      },
+      "author": "Kate Bernot",
+      "title": "Chipotle might Venmo you money, for a change - The Takeout",
+      "description": "Chipotle launches its rewards program, Chipotle Rewards, today, but that’s not the most interesting news here. No, the intriguing part of today’s announcement is the promotion accompanying the launch: Chipotle is using Venmo to give away money to 25,000 peopl…",
+      "url": "https://thetakeout.com/chipotle-rewards-money-venmo-app-1833230938",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s---c-_ELtq--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/hcoassxn5b1ipoyzrahf.jpg",
+      "publishedAt": "2019-03-12T15:44:00Z",
+      "content": "Chipotle launches its rewards program, Chipotle Rewards, today, but thats not the most interesting news here. No, the intriguing part of todays announcement is the promotion accompanying the launch: Chipotle is using Venmo to give away money to 25,000 people … [+1409 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brian Stelter, CNN Business",
+      "title": "Disney says its Fox takeover will take effect on March 20 - CNN",
+      "description": "Disney's $71 billion deal to buy most of 21st Century Fox will take effect on Wednesday, March 20, the companies said Tuesday morning.",
+      "url": "https://www.cnn.com/2019/03/12/media/disney-fox-deal/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180711105414-disney-fox-box-office-super-tease.jpg",
+      "publishedAt": "2019-03-12T15:25:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "David K. Li",
+      "title": "YouTube channel shutdown leads to Maine man allegedly making threats against company - NBC News",
+      "description": "Kyle Long made cross-country drive, with a bumpy stop in Iowa, to settle a beef with the tech giant after it had shut down his channel, California police say.",
+      "url": "https://www.nbcnews.com/news/us-news/youtube-channel-shutdown-leads-maine-man-allegedly-making-threats-against-n982151",
+      "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2019_11/2782896/190312-kyle-long-google-cover-mn-0930_20b0481b67b8381032d84d037a4c7b0f.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2019-03-12T15:19:00Z",
+      "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE March 12, 2019, 3:19 PM GMT A disgruntled YouTube user drove across America and was arrested before he could settle his beef perhaps violentl… [+3019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foxbusiness.com"
+      },
+      "author": "Joe Williams",
+      "title": "Dick's to stop selling guns in 125 stores amid sales fallout from ban - Fox Business",
+      "description": "The sporting goods retailer previously rose the minimum age to purchase guns and prohibited the sale of some rifles.",
+      "url": "https://www.foxbusiness.com/retail/dicks-to-remove-hunting-products-in-125-stores-amid-fallout-from-gun-ban",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/Dicks-Sporting-Goods.jpg?ve=1&tl=1",
+      "publishedAt": "2019-03-12T15:07:05Z",
+      "content": "Fox Business Briefs: After declining sales of hunting supplies in certain stores, Dick's Sporting Goods is considering no longer selling hunting supplies in select stores. Dick’s Sporting Goods is planning to eliminate guns and other hunting products from 125… [+1246 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "MillerCoors takes another swipe at Bud Light for its corn syrup Super Bowl ad - CNBC",
+      "description": "MillerCoors points to Bud Light's falling sales since it aired its Super Bowl ad calling out Miller's and Coors' use of corn syrup in their lite beers.",
+      "url": "https://www.cnbc.com/2019/03/12/millercoors-takes-another-swipe-at-bud-light-for-its-super-bowl-ad.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/02/04/105718899-1549311348875preview.1910x1000.jpg",
+      "publishedAt": "2019-03-12T15:04:34Z",
+      "content": "U.S. beer consumption has been declining as consumers drink more spirits and wine or eschew alcohol altogether. Last year, unit case volume of beer declined by 1.5 percent, according to IWSR data. To make matters worse for the country's biggest beer producers… [+1395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga.com"
+      },
+      "author": "Wayne Duggan",
+      "title": "Morgan Stanley Trims Tesla (NASDAQ:TSLA) Target To $260, Says Shares Will Remain 'Volatile' - Benzinga",
+      "description": "Tesla Inc (NASDAQ: TSLA) stock has struggled since the company announced a Model 3 price cut and the closure of its brick-and-mortar stores last month. The company reversed course...",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/19/03/13343936/morgan-stanley-trims-tesla-target-to-260-says-shares-wi",
+      "urlToImage": "https://cdn1.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/img_3046-edit_hires_0.jpg",
+      "publishedAt": "2019-03-12T14:55:00Z",
+      "content": "Tesla Inc (NASDAQ: TSLA ) stock has struggled since the company announced a Model 3 price cut and the closure of its brick-and-mortar stores last month. The company reversed course over the weekend, telling investors it would raise prices by 3 percent to pay … [+2162 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Google agreed to pay $135 million to two executives accused of sexual harassment - Fox News",
+      "description": "Google agreed to pay $135 million in exit packages to two top executives who left the company after being accused of sexual harassment and covered up the reasons for their departures, according to a complaint filed in a lawsuit unsealed Monday.",
+      "url": "https://www.foxnews.com/tech/google-agreed-to-pay-135-million-to-two-executives-accused-of-sexual-harassment",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/02/google-logo-chicago-getty.jpg",
+      "publishedAt": "2019-03-12T14:53:49Z",
+      "content": "Google agreed to pay $135 million in exit packages to two top executives who left the company after being accused of sexual harassment and covered up the reasons for their departures, according to a complaint filed in a lawsuit unsealed Monday. The former exe… [+1851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnet.com"
+      },
+      "author": "Andrew Krok",
+      "title": "Honda, Acura recall 1.1M cars over Takata airbags... for a second time - CNET",
+      "description": "The first round of replacement parts were also deemed defective.",
+      "url": "https://www.cnet.com/roadshow/news/honda-acura-recall-takata-airbags-second-time/",
+      "urlToImage": "https://cnet2.cbsistatic.com/img/2MnWl9fjs9vsYMEdNjXOV0sYJZU=/2019/03/12/aadbb34c-e0cf-47cb-b529-92ff87382a1a/2001-honda-accord-ogi.jpg",
+      "publishedAt": "2019-03-12T14:42:00Z",
+      "content": "If at first you don't succeed, recall 'em again. Honda has issued a recall for approximately 1.1 million Honda and Acura vehicles. The list is positively huge, spanning a wide variety of cars both new and old, in varying body styles. The full list can be seen… [+1464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lex18.com"
+      },
+      "author": null,
+      "title": "Verizon Reports Massive Text Outage On East Coast - LEX18 Lexington KY News",
+      "description": "LEXINGTON, Ky. (LEX 18) – You may have to actually talk to someone on the phone. Verizon Wireless is reporting a widespread outage impacting customers’ ability to send text messages. The website DownDetector.com showed numerous outages, including in part of K…",
+      "url": "https://lex18.com/news/covering-kentucky/2019/03/12/verizon-reports-massive-text-outage-on-east-coast/",
+      "urlToImage": "https://s3.amazonaws.com/cordillera-network/wp-content/uploads/sites/4/2019/03/12102034/downdetector.jpg",
+      "publishedAt": "2019-03-12T14:23:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Channelnewsasia.com"
+      },
+      "author": "Channel NewsAsia",
+      "title": "US Fed sanctions former Goldman Sachs bankers over 1MDB money-laundering scandal - Channel NewsAsia",
+      "description": "The U.S. Federal Reserve said on Tuesday it has sanctioned former Goldman Sachs bankers for their role in a money-laundering scandal involving 1Malaysia Development Berhad (1MDB), Malaysia's state-owned investment fund.",
+      "url": "https://www.channelnewsasia.com/news/business/us-fed-sanctions-former-goldman-sachs-bankers-over-1mdb-money-laundering-scandal-11337316",
+      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/11337314/16x9/991/557/84b82feaae2456685734fe90e4251ea/UA/men-walk-past-a-1malaysia-development-berhad--1mdb--billboard-at-the-fund-s-flagship-tun-razak-exchange-development-in-kuala-lumpur-1.jpg",
+      "publishedAt": "2019-03-12T14:21:43Z",
+      "content": "WASHINGTON: The U.S. Federal Reserve said on Tuesday it has sanctioned former Goldman Sachs bankers for their role in a money-laundering scandal involving 1Malaysia Development Berhad (1MDB), Malaysia's state-owned investment fund. Tim Leissner and Roger Ng h… [+325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik.com"
+      },
+      "author": "Erik Shilling",
+      "title": "The UAW Is Preparing For War - Jalopnik",
+      "description": "The UAW is gearing up for a contract fight, Elon Musk argues that he shouldn’t be held in contempt of court, and the Renault-Mitsubishi-Nissan partnership might not be dead. All that and more for The Morning Shift this Tuesday, March 12, 2019.",
+      "url": "https://jalopnik.com/the-uaw-is-preparing-for-war-1833228778",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--_tm8RCJH--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ghiqge997p9ntxtynwbg.jpg",
+      "publishedAt": "2019-03-12T14:18:00Z",
+      "content": "The UAW is gearing up for a contract fight, Elon Musk argues that he shouldnt be held in contempt of court, and the Renault-Mitsubishi-Nissan partnership might not be dead. All that and more for The Morning Shift this Tuesday, March 12, 2019. 1st Gear: The UA… [+9716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek.co"
+      },
+      "author": null,
+      "title": "VW says it accelerates plan for 22 million electric vehicles in 10 yrs as part of decarbonization plan - Electrek",
+      "description": "Volkswagen announced today its intention to accelerate its electrification effort as part of its decarbonization plan by adding 20 more “electric models” to its planned lineup in order …",
+      "url": "https://electrek.co/2019/03/12/vw-20-electric-vehicles-decarbonization-plan/",
+      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2018/07/Volkswagen_I.D._concept_family-Large-7737-e1531939866114.jpg?quality=82&strip=all&w=1600",
+      "publishedAt": "2019-03-12T13:57:00Z",
+      "content": "Volkswagen announced today its intention to accelerate its electrification effort as part of its decarbonization plan by adding 20 more “electric models” to its planned lineup in order to produce 22 million electric vehicles in the next 10 years. Those 22 mil… [+2151 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "news.com.au",
+      "title": "How Google knows your ‘secret interests’ - Fox News",
+      "description": "Google has been accused of spying on millions of Australians by building profiles containing “intimate lifestyle details” such as home and work addresses — plus “secret interests.”",
+      "url": "https://www.foxnews.com/tech/how-google-knows-your-secret-interests",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/02/google-logo-chicago-getty.jpg",
+      "publishedAt": "2019-03-12T13:40:25Z",
+      "content": "Google has been accused of spying on millions of Australians by building profiles containing “intimate lifestyle details” such as home and work addresses — plus “secret interests.” Computer technology company Oracle also alleged Google may have broken the law… [+5914 chars]"
+    }
+  ],
+  "sports": [
+    {
+      "source": {
+        "id": null,
+        "name": "Buffalonews.com"
+      },
+      "author": null,
+      "title": "Report: Bills add another receiver, agreeing to terms with Cole Beasley - Buffalo News",
+      "description": "Don't blink, or you might miss another move by the Buffalo Bills in free agency. Mere minutes after the team reportedly reaching a contra...",
+      "url": "https://buffalonews.com/2019/03/12/report-bills-add-another-receiver-agreeing-to-terms-with-cole-beasley/",
+      "urlToImage": "https://s3.amazonaws.com/bncore/wp-content/uploads/2019/03/GettyImages-1027307584.jpg",
+      "publishedAt": "2019-03-12T17:00:52Z",
+      "content": "Don't blink, or you might miss another move by the Buffalo Bills in free agency. Mere minutes after the team reportedly reaching a contract agreement with wide receiver John Brown, news came out that the team will make another significant move at the position… [+945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espn.com"
+      },
+      "author": null,
+      "title": "Source - Saints to ink Murray, ending Ingram run - ESPN",
+      "description": "The Saints intend to sign running back Latavius Murray, ending the eight-year run of Mark Ingram in New Orleans, a source told ESPN.",
+      "url": "http://www.espn.com/nfl/story/_/id/26239259/source-saints-ink-murray-ending-ingram-run",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0121%2Fr317319_1296x729_16%2D9.jpg",
+      "publishedAt": "2019-03-12T16:28:21Z",
+      "content": "Former Minnesota Vikings running back Latavius Murray intends to sign a four-year, $14.4 million deal with the New Orleans Saints, a source told ESPN's Adam Schefter on Tuesday, spelling the end of the Mark Ingram era in the Big Easy. Before the Vikings draft… [+2605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nypost.com"
+      },
+      "author": "Brian Costello",
+      "title": "Did Jets overpay for C.J. Mosley, Anthony Barr? - New York Post ",
+      "description": "Here are some thoughts on the Jets’ start to free agency, as Mike Maccagnan has struck quickly and thrown some money around. 1. The Jets agreed to a whopping five-year, $85 million deal with lineba…",
+      "url": "https://nypost.com/2019/03/12/did-jets-overpay-for-c-j-mosley-anthony-barr/",
+      "urlToImage": "https://thenypost.files.wordpress.com/2019/03/cj.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2019-03-12T16:26:00Z",
+      "content": "Here are some thoughts on the Jets start to free agency, as Mike Maccagnan has struck quickly and thrown some money around. 1. The Jets agreed to a whopping five-year, $85 million deal with linebacker C.J. Mosley, formerly of the Ravens, in the early hours of… [+2783 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nypost.com"
+      },
+      "author": "Aaron Feis",
+      "title": "Ex-Yale women's soccer coach charged with accepting bribes in college scam - New York Post ",
+      "description": "The longtime coach of Yale University’s women’s soccer team allegedly accepted hundreds of thousands of dollars in bribes to green-light two applicants for athletic scholarships to the Ivy — one of…",
+      "url": "https://nypost.com/2019/03/12/ex-yale-womens-soccer-coach-charged-with-accepting-bribes-in-college-scam/",
+      "urlToImage": "https://thenypost.files.wordpress.com/2019/03/rudy-meredith-yale.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2019-03-12T15:59:00Z",
+      "content": "The longtime coach of Yale Universitys womens soccer team allegedly accepted hundreds of thousands of dollars in bribes to green-light two applicants for athletic scholarships to the Ivy one of whom never even played the sport, according to bombshell federal … [+1713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Si.com"
+      },
+      "author": "Emily Caron",
+      "title": "Actors, Coaches, CEOs Among 50 People Charged In College Admissions, Recruiting Bribery Scheme - Sports Illustrated",
+      "description": "Actresses Lori Loughlin and Felicity Huffman were indicted along with several current and former college coaches, among others.",
+      "url": "https://www.si.com/more-sports/2019/03/12/college-admissions-recruiting-bribery-scheme-indictments-felicity-huffman-lori-loughlin",
+      "urlToImage": "https://imagesvc.timeincapp.com/v3/mm/image?url=https://cdn-s3.si.com/s3fs-public/2019/03/12/college-admissions-scandal-felicity-huffman-lori-loughlin.jpg&w=1200&h=628&c=sc&poi=face&q=85",
+      "publishedAt": "2019-03-12T15:56:15Z",
+      "content": "The FBI and federal prosecutors in Boston have charged 50 people, including several university athletic coaches and administrators of college entrance exams, in a nationwide college admissions cheating and recruitment scheme, according to court documents firs… [+4100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cbssports.com"
+      },
+      "author": "",
+      "title": "2019 ACC Tournament bracket: Live scores, schedule, updates, location, dates, times, live stream for March Madness - CBS Sports",
+      "description": "All the information you need to follow along with the 2019 ACC Tournament action",
+      "url": "https://www.cbssports.com/college-basketball/news/2019-acc-tournament-bracket-live-scores-schedule-updates-location-dates-times-live-stream-for-march-madness/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/03/12/ef34efa7-44c8-4997-84a0-426770d42966/thumbnail/770x433/55158863433abe12e5745ab6ddab90fe/wake.jpg",
+      "publishedAt": "2019-03-12T15:52:00Z",
+      "content": "The 2019 ACC Tournament will begin Tuesday, and following a wild and unpredictable Saturday slate of games, the matchups are officially set. The tournament will kick off the first day with the Nos. 10-15 seeds battling it out Tuesday in Charlotte. Nos. 5-9 se… [+2078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sbnation.com"
+      },
+      "author": "Christian D'Andrea",
+      "title": "Jon Gruden, Raiders are going all-in for NFL free agency. It might work - SB Nation",
+      "description": "Adding Antonio Brown and Trent Brown shows Gruden is ready to rebuild.",
+      "url": "https://www.sbnation.com/nfl/2019/3/12/18260222/jon-gruden-oakland-raiders-nfl-free-agency-antonio-brown-trade",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6GMMPesyCNIhPD8PMErFemnAh2M=/0x94:2000x1141/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15955461/gruden.jpg",
+      "publishedAt": "2019-03-12T15:30:00Z",
+      "content": "Jon Gruden is doing the damn thing. Armed with three first-round draft picks and sizable salary cap space, the former Raiders coach turned Monday Night Football analyst turned current Raiders coach is making his move to rebuild the franchise he spent 2018 tea… [+8732 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "James Dudko",
+      "title": "Conor McGregor Says Patience 'Is a Virtue I Continue to Work On' After Arrest - Bleacher Report",
+      "description": "Conor McGregor  has told fans he is still learning how to be patient after he was arrested by Miami Beach Police on Monday.    McGregor is accused of grabbing then smashing the phone of a fan who attempted to take his picture...",
+      "url": "https://bleacherreport.com/articles/2825202-conor-mcgregor-says-patience-is-a-virtue-i-continue-to-work-on-after-arrest",
+      "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/795/906/hi-res-9d3208e6ad06f0ea45e5610a9e58dc30_crop_exact.jpg?w=1200&h=1200&q=75",
+      "publishedAt": "2019-03-12T15:24:56Z",
+      "content": "Ronald Martinez/Getty Images Conor McGregor has told fans he is still learning how to be patient after he was arrested by Miami Beach Police on Monday. McGregor is accused of grabbing then smashing the phone of a fan who attempted to take his picture. He was … [+2506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freep.com"
+      },
+      "author": "Dave Birkett",
+      "title": "Detroit Lions have options on Day 2 of free agency: Here's what's in store - Detroit Free Press",
+      "description": "The Detroit Lions' biggest position needs are running back, cornerback and offensive guard on Day 2 of NFL free agency.",
+      "url": "https://www.freep.com/story/sports/nfl/lions/2019/03/12/detroit-lions-free-agency/3138044002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2019/01/14/PDTF/d7f58acc-a225-4c15-b28b-1f8404781c0e-SI_20190113_gma_ac9_13.jpg?crop=1805,1015,x214,y370&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2019-03-12T15:14:02Z",
+      "content": "Dave Birkett breaks down the busy first day of free agency for the Detroit Lions on Monday, March 11, 2019. Detroit Free Press On Day 1 of free agency, the Detroit Lions addressed arguably their four biggest needs. They signed Danny Amendola to a one-year dea… [+5494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Steelers.com"
+      },
+      "author": null,
+      "title": "Shazier's contract tolled into 2019 - Steelers.com",
+      "description": "Move allows him to continue rehab while remaining part of the team on a day-to-day basis",
+      "url": "https://www.steelers.com/news/shazier-s-contract-tolled-into-2019",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/steelers/mk0grtkuuxfgpnuepazn",
+      "publishedAt": "2019-03-12T15:08:47Z",
+      "content": "Throughout this ongoing process, the Steelers have maintained their primary interest was to support Ryan Shazier, first in his quest to be able to live a normal life and then in his pursuit of a return to the field as a linebacker in the National Football Lea… [+1973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mysanantonio.com"
+      },
+      "author": "Julian Gill",
+      "title": "Death of George Foreman's daughter ruled suicide by Harris County medical examiners - mySanAntonio.com",
+      "description": "Freeda Foreman, 42, was found dead in her Houston-area home over the weekend.",
+      "url": "https://www.mysanantonio.com/news/houston-texas/houston/article/Death-of-boxing-legend-s-daughter-ruled-suicide-13681919.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/01/02/17/17048566/7/rawImage.jpg",
+      "publishedAt": "2019-03-12T15:07:00Z",
+      "content": "Freeda Foreman, daughter of two-time heavyweight champion George Foreman, trains for her debut fight in the Aquae Sulis Spa at The Regent Las Vegas on Thursday, March 30, 2000. Freeda Foreman, daughter of two-time heavyweight champion George Foreman, trains f… [+1228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bigcatcountry.com"
+      },
+      "author": "Alfie Crow",
+      "title": "Jaguars need to add players around Nick Foles - Big Cat Country",
+      "description": "To no one’s surprise the Jacksonville Jaguars have brought free agent quarterback Nick Foles into the fold. On Wednesday when NFL free agency officially begins he will put pen to paper on a 4-year,...",
+      "url": "https://www.bigcatcountry.com/2019/3/12/18261612/jaguars-free-agent-targets-golden-tate",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/op04bpvar7aEeQkP7kMUIc8Xli0=/0x0:5472x2865/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15956279/1076014016.jpg.jpg",
+      "publishedAt": "2019-03-12T14:43:42Z",
+      "content": "To no ones surprise the Jacksonville Jaguars have brought free agent quarterback Nick Foles into the fold. On Wednesday when NFL free agency officially begins he will put pen to paper on a 4-year, $88 million deal with $50 million guaranteed. We dont know the… [+2312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espn.com"
+      },
+      "author": null,
+      "title": "Sources: QB Bridgewater near deal with Saints - ESPN",
+      "description": "Quarterback Teddy Bridgewater is nearing a deal to remain with the Saints, but no agreement has yet been reached, sources told ESPN.",
+      "url": "http://www.espn.com/nfl/story/_/id/26237979/qb-bridgewater-deal-saints",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F1230%2Fr483075_1296x729_16%2D9.jpg",
+      "publishedAt": "2019-03-12T14:29:26Z",
+      "content": "Quarterback Teddy Bridgewater is nearing a deal to stay with the New Orleans Saints, but no agreement has yet been reached, sources told ESPN's Adam Schefter on Tuesday. News that the team is expected to re-sign Bridgewater was first reported by NFL Network. … [+1480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bleedinggreennation.com"
+      },
+      "author": "Brandon Lee Gowton, Ryan O'Bleness",
+      "title": "Malik Jackson: Five things to know about the new Eagles defensive tackle - Bleeding Green Nation",
+      "description": "Jaguars perspective on Philadelphia’s new pass rusher.",
+      "url": "https://www.bleedinggreennation.com/2019/3/12/18261648/malik-jackson-eagles-defensive-tackle-philadelphia-nfl-2019-jaguars-broncos-highlights-strengths-dt",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lBLLT3urGEQSuqHczINXhKzDcuo=/0x4:2003x1053/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15956348/usa_today_11893193.jpg",
+      "publishedAt": "2019-03-12T14:27:05Z",
+      "content": "The Philadelphia Eagles addressed a big need on Monday by reportedly agreeing to terms with free agent defensive tackle Malik Jackson. In order to better get to know the Eagles new interior pass rusher, I thought itd benefit BGN readers to get a Jacksonville … [+3256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Realclearlife.com"
+      },
+      "author": "Evan Bleier",
+      "title": "New Patriot Wants to Talk to Brady and Belichick About Trump Connections - RealClearLife",
+      "description": "Michael Bennett said during a talk at Princeton that he is planning to speak to Bill Belichick and Tom Brady about their connections to Donald Trump.",
+      "url": "http://www.realclearlife.com/sports/new-patriot-wants-talk-brady-belichick-trump-connections/",
+      "urlToImage": "http://www.realclearlife.com/wp-content/uploads/2019/03/GettyImages-1051852984.jpg",
+      "publishedAt": "2019-03-12T14:20:38Z",
+      "content": "&lt; Go to Homepage Now in New England, Michael Bennett plans to remain in the locker room during the anthem. 3 hours ago Now a Patriot following a trade from the Eagles for draft picks, outspoken defensive star Michael Bennett said he does not plan to keep h… [+1560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nbcsports.com"
+      },
+      "author": "Mike Florio",
+      "title": "Six teams reportedly are in play for Le'Veon Bell - NBC Sports",
+      "description": "Well, now we know why Le'Veon Bell is torn. Bell’s universe of potential next destinations apparently has been reduced to six. Josina Anderson of ESPN reports that there’s a “good likelihood” that Bell will be picking the Jets, Colts, Ravens, Packers, Texans,…",
+      "url": "http://profootballtalk.nbcsports.com/2019/03/12/six-teams-reportedly-are-in-play-for-leveon-bell/",
+      "urlToImage": "https://nbcprofootballtalk.files.wordpress.com/2019/02/gettyimages-1063273378-e1550768392619.jpg",
+      "publishedAt": "2019-03-12T14:20:00Z",
+      "content": "Well, now we know why Le'Veon Bell is torn. Bell’s universe of potential next destinations apparently has been reduced to six. Josina Anderson of ESPN reports that there’s a “ good likelihood ” that Bell will be picking the Jets, Colts, Ravens, Packers, Texan… [+1044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "As.com"
+      },
+      "author": "AStv",
+      "title": "Cristiano Ronaldo asked: \"Do you miss Spain at all?\" - AS English",
+      "description": "The Juventus forward gave an exclusive interview to DAZN. \"I’ve left a lot of good people, good friends, a great club – a club that showed me a lot of affection\"",
+      "url": "https://en.as.com/en/2019/03/12/football/1552396761_355518.html",
+      "urlToImage": "https://as01.epimg.net/futbol/imagenes/2019/03/12/videos/1552392576_388554_1552392747_noticia_normal.jpg",
+      "publishedAt": "2019-03-12T14:11:54Z",
+      "content": "Cristiano Ronaldo gave an exclusive interview to DAZN in which he spoke candidly about adapting to life in Turin, tonight's make-or-break return leg against Atlético de Madrid and his time away from the national team. He was also asked whether he missed life … [+2392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Profootballfocus.com"
+      },
+      "author": null,
+      "title": "Is Kwon Alexander worth the money that he got from the 49ers? | NFL Analysis - Pro Football Focus",
+      "description": "PFF's Ben Linsey takes a look at the San Francisco 49ers' signing of free agent LB Kwon Alexander.",
+      "url": "https://www.profootballfocus.com/news/pro-is-kwon-alexander-worth-the-money-that-he-got-from-the-49ers",
+      "urlToImage": "https://media.profootballfocus.com/2019/03/USATSI_11313721.jpg?w=1024&h=1024",
+      "publishedAt": "2019-03-12T14:01:23Z",
+      "content": "Sep 24, 2018; Tampa, FL, USA; Tampa Bay Buccaneers linebacker Kwon Alexander (58) reacts during the second half against the Pittsburgh Steelers at Raymond James Stadium. Mandatory Credit: Douglas DeFelice-USA TODAY Sports At just 24 years old, Kwon Alexander … [+2948 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Milehighreport.com"
+      },
+      "author": "Tim Lynch",
+      "title": "Grading the Denver Broncos first two free agent signings - Mile High Report",
+      "description": "If the goal is to win now, the Denver Broncos are on the right track with both free agents they have reportedly agreed to terms with on Monday.",
+      "url": "https://www.milehighreport.com/2019/3/12/18261352/broncos-free-agent-grades-kareem-jackson-jawuan-james",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uxf2RJ4mub79WM2QZciLx_T_VqM=/0x1449:2202x2602/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15955970/usa_today_11950334.jpg",
+      "publishedAt": "2019-03-12T14:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yardbarker.com"
+      },
+      "author": null,
+      "title": "Tim Tebow reassigned to minor leagues, will start season in Triple-A - Yardbarker",
+      "description": "Tim Tebow had a chance to prove himself in training camp with the New York Mets this season, but he did not do enough to make the major league roster. The Mets announced on Tuesday that they have reassigned Tebow to their minor league camp as part of thei",
+      "url": "https://www.yardbarker.com/mlb/articles/tim_tebow_reassigned_to_minor_leagues_will_start_season_in_triple_a/s1_127_28620230",
+      "urlToImage": "https://www.yardbarker.com/media/9/0/90be8dd354a6bd9a1da76576d56a1051703b43b1/thumb_16x9/12227462.jpg?v=1",
+      "publishedAt": "2019-03-12T13:29:03Z",
+      "content": "Tim Tebow had a chance to prove himself in training camp with the New York Mets this season, but he did not do enough to make the major league roster. The Mets announced on Tuesday that they have reassigned Tebow to their minor league camp as part of their la… [+121 chars]"
+    }
+  ],
+  "technology": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "See a long-lost licensed NES wrestling game, discovered 30 years later - Ars Technica",
+      "description": "Seemingly unique prototype of UWC has been dumped for preservation.",
+      "url": "https://arstechnica.com/gaming/2019/03/see-a-long-lost-licensed-nes-wrestling-game-discovered-30-years-later/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/uwc-760x380.jpg",
+      "publishedAt": "2019-03-12T17:02:00Z",
+      "content": "4 with 4 posters participating After all this time, you might think we already know about every NES game made during the system's '80s heyday, but to this day collectors are still discovering and preserving one-of-a-kind prototypes that were produced but neve… [+2205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gearpatrol.com"
+      },
+      "author": "J.D. DiGiovanni",
+      "title": "Mophie's New Battery Pack Takes Portability to Another Level • Gear Patrol - Gear Patrol",
+      "description": "Mophie's newest releases are tiny but mighty chargers for the phones of the future.",
+      "url": "https://gearpatrol.com/2019/03/12/mophie-makes-power-all-the-more-portable-with-their-new-edc-worthy-releases/",
+      "urlToImage": "https://cdn.gearpatrol.com/wp-content/uploads/2019/03/New-Mophie-Release-gear-patrol-feature.jpg",
+      "publishedAt": "2019-03-12T16:30:00Z",
+      "content": "Mophie just announced a couple of new pint-sized battery packs: one for the Palm phone and another more universal backup charger theyre calling the Powerstation Keychain. The latter of these two releases will appeal to more people — it has dimensions consider… [+899 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": null,
+      "title": "The Next Apex Legends Character Has Potentially Leaked - IGN",
+      "description": "An image on EA's servers may have leaked a new Apex Legends character.",
+      "url": "https://www.ign.com/articles/2019/03/12/the-next-apex-legends-character-has-potentially-leaked",
+      "urlToImage": "https://assets1.ignimgs.com/2019/03/12/16-1549321450934-1552409211940_1280w.png",
+      "publishedAt": "2019-03-12T16:11:37Z",
+      "content": "Is it a character or NPC? By Jessie Wade A new Apex Legends character has potentially leaked online. Twitter user @shrugtal found an image of what could be a new character on EA's servers, where it remains in the back-end, still live as of time of writing. Th… [+1256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macrumors.com"
+      },
+      "author": "Juli Clover",
+      "title": "MacRumors Giveaway: Win a Pair of Apple's Upcoming AirPods 2 - Mac Rumors",
+      "description": "Apple is working on second-generation AirPods that are expected to be announced sometime soon, perhaps even during the month of March.\r \n\r \nWe know...",
+      "url": "https://www.macrumors.com/2019/03/12/macrumors-giveaway-airpods-2/",
+      "urlToImage": "https://cdn.macrumors.com/article-new/2019/03/macrumorsairpods2giveaway.jpg?retina",
+      "publishedAt": "2019-03-12T16:06:00Z",
+      "content": "Apple is working on second-generation AirPods that are expected to be announced sometime soon, perhaps even during the month of March. We know the AirPods 2 aren't out yet, but we're launching a new giveaway feature that will see us offering MacRumors readers… [+1672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Windows 7 users to receive notifications from Microsoft about end of support - The Verge",
+      "description": "Microsoft will start pushing notifications to Windows 7 next month, warning of the end of support in January. There will only be a “handful” of notifications until they finish once support ends on January 14th, 2020",
+      "url": "https://www.theverge.com/2019/3/12/18261699/microsoft-windows-7-notification-end-of-support",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/paSOowTMf7ZYm3_x9-dP83YJpVs=/0x69:1020x603/fit-in/1200x630/cdn.vox-cdn.com/assets/1627205/win7.jpg",
+      "publishedAt": "2019-03-12T16:00:00Z",
+      "content": "Microsoft is planning to push notifications to Windows 7 users warning them about the upcoming end of support. The software giant will stop supporting Windows 7 on January 14th, 2020, and it will start warning consumers about this cutoff date next month. Micr… [+1863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Androidpolice.com"
+      },
+      "author": "Manuel Vonau",
+      "title": "Mozilla's upcoming browser Fenix packs a new UI and fundamental changes to tab management - Android Police",
+      "description": "Firefox has a hard stand on Android. With a market share of way less than 1 percent, it’s clear that Mozilla needs to do something to breathe new life into its mobile product. However, if you’ve followed Firefox development on Android for the last couple of m…",
+      "url": "https://www.androidpolice.com/2019/03/12/mozillas-upcoming-browser-fenix-packs-a-new-ui-and-fundamental-changes-to-tab-management/",
+      "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_page-image.4b108ed0b8d8-668x351.png",
+      "publishedAt": "2019-03-12T15:49:00Z",
+      "content": "Firefox has a hard stand on Android. With a market share of way less than 1 percent, it’s clear that Mozilla needs to do something to breathe new life into its mobile product. However, if you’ve followed Firefox development on Android for the last couple of m… [+2555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Androidpolice.com"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Samsung rolls Android 9 Pie out to the Verizon and unlocked Note 9 - Android Police",
+      "description": "Android Pie has been spreading slowly through Samsung's smartphone lineup in recent months. The Galaxy S9 family got the OTA first, and then the Note 9 began its Android 9 journey early this year. Most Galaxy Note 9 devices should be taken care of with today'…",
+      "url": "https://www.androidpolice.com/2019/03/12/samsung-rolls-android-9-pie-out-to-the-verizon-and-unlocked-note-9/",
+      "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2018/12/note9-stylus-laying-on-phone-1-728x485.jpg",
+      "publishedAt": "2019-03-12T15:46:00Z",
+      "content": "Android Pie has been spreading slowly through Samsung's smartphone lineup in recent months. The Galaxy S9 family got the OTA first, and then the Note 9 began its Android 9 journey early this year. Most Galaxy Note 9 devices should be taken care of with today'… [+777 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cass Marshall",
+      "title": "God’s Trigger is a cheesy, B-movie blast of a shooter - Polygon",
+      "description": "God’s Trigger is a cheesy, Hotline MIami shooter from One More Level and Techland Publishing that puts players in the shoes of Harry, an angel, and Judy, a demon, as they shoot their way up to heaven.",
+      "url": "https://www.polygon.com/2019/3/12/18261301/gods-trigger-preview-gameplay-impressions",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dRCbvP5PK7UuDJKjWlfIhzQRkmg=/0x36:1903x1032/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15955917/mfAyppQ.png",
+      "publishedAt": "2019-03-12T15:45:00Z",
+      "content": "Its difficult to emphasize just how cheesy Gods Trigger, a top-down shooter, gets during my time with the preview. If Gods Trigger were food, it would be a plate full of nachos ordered from a bar at 3 a.m. If Gods Trigger were a person, it would be someone wh… [+2993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Androidpolice.com"
+      },
+      "author": "Jordan Palmer",
+      "title": "Google wants your help to make Android Q better, new Feedback app to be bundled with upcoming beta - Android Police",
+      "description": "We here at AP are chomping at the bit waiting for news on Android Q. Those of us who plan to install the beta have our Pixels ready, eagerly anticipating some kind of announcement from Google. Meanwhile, it looks like the company is planning to introduce a de…",
+      "url": "https://www.androidpolice.com/2019/03/12/google-wants-your-help-to-make-android-q-better-feedback/",
+      "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2019/01/Winky-Android-Q-bugdroid-728x410.png",
+      "publishedAt": "2019-03-12T15:37:00Z",
+      "content": "We here at AP are chomping at the bit waiting for news on Android Q. Those of us who plan to install the beta have our Pixels ready, eagerly anticipating some kind of announcement from Google. Meanwhile, it looks like the company is planning to introduce a de… [+1682 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Petapixel.com"
+      },
+      "author": null,
+      "title": "Huawei Busted for Faking Smartphone Photos Yet Again - PetaPixel",
+      "description": "It looks like Huawei still hasn't learned its lesson after getting caught faking smartphone photos in ads multiple times. The company's latest teaser ads",
+      "url": "https://petapixel.com/2019/03/12/huawei-busted-for-faking-smartphone-photos-yet-again/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2019/03/huaweigettyimagesfeatttt.jpg",
+      "publishedAt": "2019-03-12T15:36:00Z",
+      "content": "It looks like Huawei still hasn’t learned its lesson after getting caught faking smartphone photos in ads multiple times. The company’s latest teaser ads for the upcoming P30 Pro smartphone imply that they show sample photos, but they don’t. You may remember … [+2476 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Destructoid.com"
+      },
+      "author": "Chris Carter",
+      "title": "A Fallout 76 player created a death trap for new players and it's pretty amazing - Destructoid",
+      "description": "A Fallout 76 player created a death trap for new players and it's pretty amazing",
+      "url": "https://www.destructoid.com/a-fallout-76-player-created-a-death-trap-for-new-players-and-it-s-pretty-amazing-546055.phtml",
+      "urlToImage": "https://destructoid.com//ul/546055-SSA1.jpg",
+      "publishedAt": "2019-03-12T15:30:00Z",
+      "content": "Deathclaw unchained Fallout 76 might be a mess, but there's hope on the horizon with several big DLC drops and of course, a ton of user-created content. That includes this newest video from YouTube user aswiftkickinthejunk, who created their own death maze to… [+481 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Eirik Gumeny",
+      "title": "What Red Dead Redemption 2 gets right about having a terminal disease - Polygon",
+      "description": "Red Dead Redemption 2 tackles a serious problem with a surprising amount of empathy and insight. The disease that is likely to kill you doesn’t have to define you, as seen in the main character, Arthur Morgan.",
+      "url": "https://www.polygon.com/2019/3/12/18260456/red-dead-redemption-2-illness-tuberculosis",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GD-lkVuS5j6ezUXUI0-alBpS0KY=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13332151/red_dead_redemption_2_sunset__1_.jpg",
+      "publishedAt": "2019-03-12T15:30:00Z",
+      "content": "There arent a lot of good examples of what its like living with a terminal respiratory disease out there in the world. I actually learned to avoid characters I might relate to when I was growing up with cystic fibrosis, as they never seemed to exist as people… [+10996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Droid-life.com"
+      },
+      "author": "Kellen",
+      "title": "Google Allo Says “Goodbye” Today - Droid Life",
+      "description": "Google Allo is done, friends. This is it. Today is the last day for you to use Google Allo. Since none of you ever used it, this shouldn't be a painful few hours of final moments. However, if you did use it that one time when it first launched...",
+      "url": "https://www.droid-life.com/2019/03/12/google-allo-says-goodbye-today/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2019/03/Google-Allo-Death-600x315.jpg",
+      "publishedAt": "2019-03-12T15:08:00Z",
+      "content": "Google Allo is done, friends. This is it. Today is the last day for you to use Google Allo. Since none of you ever used it, this shouldn’t be a painful few hours of final moments. However, if you did use it that one time when it first launched and want to bac… [+486 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Turi",
+      "title": "The GravaStar is a Bluetooth speaker with robotic charm - Engadget",
+      "description": "The robots are here to take over your Bluetooth speakers",
+      "url": "https://www.engadget.com/2019/03/12/gravastar-bluetooth-speaker-futuristic-robot-tws/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-03%252F8c96e900-3f73-11e9-a7cf-58f59a6d6088%26client%3Da1acac3e1b3290917d92%26signature%3Deb12b7d8f164cbf90a0a2cf40b130ee88b4fe7ae&client=amp-blogside-v2&signature=e96473c3155e83abf905976445ff5c2f22dfd958",
+      "publishedAt": "2019-03-12T15:00:16Z",
+      "content": "When it's searching for a Bluetooth device, you'll see a small light panel on the rear right side flashing. If you're not connected to the speaker you'll always have this small flashing light in action, which can be little distracting. The 3.5mm aux-input ove… [+2187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnet.com"
+      },
+      "author": "Rick Broida",
+      "title": "Eero Wi-Fi System gets a rare discount: Just $299 - CNET",
+      "description": "Blanket your home in Wi-Fi goodness with this top-rated mesh network setup. Or get the 2-module kit for $199.",
+      "url": "https://www.cnet.com/news/eero-wi-fi-mesh-system-gets-a-rare-discount-just-299/",
+      "urlToImage": "https://cnet2.cbsistatic.com/img/-5jtoy5d6QLfg3xSf_RWoo62CkI=/724x407/2017/07/14/a9ebcfb5-532f-4a6d-97b8-691d49851a27/eero-and-eero-beacon-0400-006.jpg",
+      "publishedAt": "2019-03-12T14:51:00Z",
+      "content": "This kit comes with one Eero and two Beacons, enough to cover most 2-4-bedroom homes. Josh Miller/CNET Amazon has completed its acquisition of Eero, makers of home networking gear, and to celebrate, it's knocking $100 off the price of its second-gen kit. Read… [+1689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5mac.com"
+      },
+      "author": null,
+      "title": "100M subs ‘a realistic medium-term goal’ for Apple’s streaming video service, says analyst - 9to5Mac",
+      "description": "A couple of weeks before Apple announces its long-awaited streaming video service, a firm of analysts has suggested that 100M subscriptions could be ‘a realistic medium-term goal’ for t…",
+      "url": "https://9to5mac.com/2019/03/12/apples-streaming-video-service-2/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2019/03/Apple’s-streaming-video-service.jpg?quality=82&strip=all&w=1500",
+      "publishedAt": "2019-03-12T14:40:39Z",
+      "content": "A couple of weeks before Apple announces its long-awaited streaming video service, a firm of analysts has suggested that 100M subscriptions could be ‘a realistic medium-term goal’ for the company. This compares to the roughly 150M Netflix subscribers. Wedbush… [+2937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thurrott.com"
+      },
+      "author": null,
+      "title": "Fortnite's Latest Update Forces Xbox One and PS4 Users to Play Together - Thurrott.com",
+      "description": "Fortnite's latest update puts PlayStation 4 and Xbox One gamers head-to-head on the battle field.",
+      "url": "https://www.thurrott.com/xbox/202799/fortnites-latest-update-forces-xbox-one-and-ps4-users-to-play-together",
+      "urlToImage": "https://www.thurrott.com/wp-content/uploads/sites/2/2018/09/fortnite-season-6.jpg",
+      "publishedAt": "2019-03-12T14:31:59Z",
+      "content": "Fortnite is getting a new update today that’s making some significant changes to the gameplay for console owners. Epic today rolled out version 8.10 of the game, introducing some major changes to the matchmaking system. With today’s update, Xbox One and PlayS… [+1187 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dave Smith",
+      "title": "The Apple Watch Series 4 has converted me into an Apple Watch believer - INSIDER",
+      "description": "The first Apple Watch didn't really grab me. The new Series 4 is another story.",
+      "url": "https://www.businessinsider.com/apple-watch-series-4-first-impressions-2019-3",
+      "urlToImage": "https://amp.businessinsider.com/images/5c87b3ff2628986a9b7cc1ad-1920-960.jpg",
+      "publishedAt": "2019-03-12T14:26:20Z",
+      "content": "On April 27, 2015, at 4:15 in the afternoon, I ordered Apple's very first smartwatch. It arrived at my doorstep nearly three months later, on June 2. I was immediately taken with the Watch's cool hardware, and I absolutely loved being able to pay for goods wi… [+586 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Saqib Shah",
+      "title": "Alphabet's AI-powered Chrome extension hides toxic comments - Engadget",
+      "description": "'Tune' works with Facebook, Twitter and Reddit.",
+      "url": "https://www.engadget.com/2019/03/12/alphabet-chrome-extension-toxic-comments/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1305%252C772%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C947%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-03%252F1b194990-44cc-11e9-9b88-c040fa62fe02%26client%3Da1acac3e1b3290917d92%26signature%3D93f0c175b5c5fd456d0d1e2a19660a25acb7fa3a&client=amp-blogside-v2&signature=1302d9bb53f3f43f60fc58df7c3397ed22b87fb6",
+      "publishedAt": "2019-03-12T14:23:47Z",
+      "content": "Jigsaw admits that Tune is still an experiment, meaning it may not spot all forms of toxicity or could hide non-offensive comments. \"We're constantly working to improve the underlying technology, and users can easily give feedback right in the tool to help us… [+1142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Express.co.uk"
+      },
+      "author": "Liam Martin",
+      "title": "Fortnite 8.10 PATCH NOTES: Baller update, Vending Machine free items, Getaway LTM - Express",
+      "description": "FORTNITE fans should check out update 8.1 patch notes while the game is offline for maintenance.",
+      "url": "https://www.express.co.uk/entertainment/gaming/1098931/Fortnite-update-8-1-patch-notes-vending-machines-baller-crossplay-GETAWAY-downtime",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/143/750x445/1098931.jpg",
+      "publishedAt": "2019-03-12T14:18:00Z",
+      "content": "Fortnite update 8.1 is live, complete with a lengthy list of patch notes. According to the official Epic Games patch notes, the big new addition is The Baller vehicle. The Baller was unveiled within the in-game newsfeed, complete with a hint about what to exp… [+8855 chars]"
+    }
+  ]
 }
