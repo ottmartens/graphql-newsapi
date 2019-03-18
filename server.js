@@ -1,11 +1,13 @@
 const express = require('express')
 const expressGraphQL = require('express-graphql')
 const mongoClient = require('mongodb').MongoClient
+const cors = require('cors');
 
 const { dbUrl } = require('./config')
 
 const app = express();
 
+app.use(cors());
 
 mongoClient.connect(dbUrl, { useNewUrlParser: true }, (err, database) => {
 
@@ -22,8 +24,8 @@ mongoClient.connect(dbUrl, { useNewUrlParser: true }, (err, database) => {
 
   require('./newsService')(db)
   
-  app.listen(4000, () => {
-    console.log("Listening on 4000")
+  app.listen(80, () => {
+    console.log("Listening on 80")
   })
 
 })
