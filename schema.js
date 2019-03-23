@@ -1,4 +1,5 @@
-const { GraphQLObjectType, GraphQLString, GraphQLSchema, GraphQLList } = require('graphql');
+const { GraphQLObjectType, GraphQLString, GraphQLSchema, GraphQLList, GraphQLNonNull } = require('graphql');
+const ObjectID = require('mongodb').ObjectID;
 
 module.exports = db => {
   const SourceType = new GraphQLObjectType({
@@ -16,6 +17,9 @@ module.exports = db => {
   const ArticleType = new GraphQLObjectType({
     name: 'Article',
     fields: () => ({
+      id: {
+        type: GraphQLString,
+      },
       source: {
         type: SourceType,
       },
@@ -47,6 +51,22 @@ module.exports = db => {
   const RootQuery = new GraphQLObjectType({
     name: 'RootQueryType',
     fields: {
+      article: {
+        type: ArticleType,
+        args: {
+          id: {
+            type: new GraphQLNonNull(GraphQLString),
+          },
+          category: {
+            type: GraphQLString,
+          }
+        },
+        resolve(parentValue, args) {
+          const category = args.category || 'all';
+          return fetchArticle(category, args.id);
+          
+        },
+      },
       articles: {
         type: new GraphQLList(ArticleType),
         args: {
@@ -62,6 +82,19 @@ module.exports = db => {
     },
   });
 
+  const fetchArticle = (collection, id) => {
+    return new Promise((resolve, reject) => {
+      db.collection(collection).findOne({ _id: ObjectID(id) }, (err, result) => {
+        if (err) reject(err);
+        else if (!result) reject('Article not found');
+        else {
+          delete Object.assign(result, { ['id']: result['_id'] })['_id'];
+          resolve(result);
+        }
+      });
+    });
+  };
+
   const fetchArticles = collection => {
     return new Promise((resolve, reject) => {
       db.collection(collection)
@@ -71,7 +104,7 @@ module.exports = db => {
             reject(err);
           }
           result.forEach(e => {
-            delete e._id;
+            delete Object.assign(e, { ['id']: e['_id'] })['_id'];
           });
           resolve(result);
         });
